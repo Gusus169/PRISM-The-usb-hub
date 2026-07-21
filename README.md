@@ -21,6 +21,18 @@ Built from scratch using EasyEDA Pro, this project pushed me deep into reading d
 and the difference between making something work and engineering something worth making.
 
 
+OSHWLAB links:-
+
+Project Homepage Link:-
+
+https://oshwlab.com/gursimarsingh/project_sbjyvumg
+
+Project Link In the Editor:-
+
+https://pro.easyeda.com/editor#id=b8692b3887604f119e030c38637a1b7c
+
+
+
 
 ## Key Features
 
