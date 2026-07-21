@@ -7,7 +7,7 @@
 [Key Features](#key-features) • [PCB](#pcb) • [BOM](#bom) • [License](#license)
 
 
-![Banner1](assets/banner1.png)
+![Banner1](assets/Render5.png)
 
 
 
