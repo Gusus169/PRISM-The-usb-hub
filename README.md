@@ -9,9 +9,6 @@
 ![Banner1](assets/banner1.png)
 
 
-![Banner2](assets/banner2.png)
-
-
 
 ## About
 
@@ -48,12 +45,23 @@ Designed in EasyEDA Pro(V1), Further Refined in KiCad(V2).
 ![PCB Back](assets/pcb_back.png)
 
 
-### JLCPCB Order
+### KiCad Renders 
 
-![JLCPCB](assets/jlcpcb.png)
+**Front:**
+
+![PCB Front](assets/pcb_front3d.png)
+
+**Back:**
+
+![PCB Back](assets/pcb_back3d.png)
+
+
 
 ## BOM
 
+<img width="791" height="265" alt="image" src="https://github.com/user-attachments/assets/2cb49c97-bd05-45a4-8c2b-7342f895601e" />
+
+Note: The official LCSC BOM is in the production folder.
 
 
 
