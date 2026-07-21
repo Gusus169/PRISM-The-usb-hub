@@ -60,9 +60,9 @@ Designed in EasyEDA Pro(V1), Further Refined in KiCad(V2).
 
 ## BOM
 
-<img width="791" height="265" alt="image" src="https://github.com/user-attachments/assets/2cb49c97-bd05-45a4-8c2b-7342f895601e" />
+<img width="854" height="265" alt="image" src="https://github.com/user-attachments/assets/be7262c0-2766-4680-b646-8441b76074d8" />
 
-Note: The official LCSC BOM is in the production folder.
+Note: The official LCSC BOM File is in the production folder.
 
 
 
